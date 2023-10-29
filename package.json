@@ -1,7 +1,7 @@
 {
-  "name": "Youtube",
+  "name": "migabite calculator",
   "version": "1.0.0",
-  "description": "Unblocker website w/ Ultraviolet",
+  "description": "super definitely calculator",
   "main": "index.js",
   "type": "module",
   "scripts": {
